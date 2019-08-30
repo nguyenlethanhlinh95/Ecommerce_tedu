@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{0E605362-A7F8-498F-9CFE-B1DCBD440788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KetNoiCSDL", "KetNoiCSDL\KetNoiCSDL.csproj", "{FA2709E2-E257-4E93-888F-CC48F5F9FEE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E605362-A7F8-498F-9CFE-B1DCBD440788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E605362-A7F8-498F-9CFE-B1DCBD440788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E605362-A7F8-498F-9CFE-B1DCBD440788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E605362-A7F8-498F-9CFE-B1DCBD440788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2709E2-E257-4E93-888F-CC48F5F9FEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2709E2-E257-4E93-888F-CC48F5F9FEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2709E2-E257-4E93-888F-CC48F5F9FEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2709E2-E257-4E93-888F-CC48F5F9FEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21DBB943-03C6-4DB6-9D5C-99566BFC78BE}
+	EndGlobalSection
+EndGlobal
